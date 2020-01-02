@@ -1,5 +1,5 @@
 # > NeteaseMusic
-user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+//user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 user-agent,NeteaseMusic*
 host-suffix,music.126.net
 host-suffix,music.163.com
