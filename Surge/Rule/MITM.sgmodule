@@ -1,6 +1,5 @@
 #!name=Cyan
-#!desc=MITM.
-#!system=ios
+#!desc=MITM
 
 [MITM]
 skip-server-cert-verify = true
